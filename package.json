@@ -1,0 +1,19 @@
+{
+  "name": "ransac-linear-fit",
+  "version": "1.0.0",
+  "description": "linear fit model for node-ransac",
+  "main": "ransac-linear-fit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhedin/ransac-linear-fit.git"
+  },
+  "author": "James Hedin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhedin/ransac-linear-fit/issues"
+  },
+  "homepage": "https://github.com/jhedin/ransac-linear-fit#readme"
+}
